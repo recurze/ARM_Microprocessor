@@ -24,8 +24,8 @@
  - Main Controller
  - ALU Controller
  - Branch Controller
- - ControlFSM
+ - ![ControlFSM](https://github.com/recurze/ARM_Microprocessor/blob/master/img/ControllerFSM.png)
 
-3. ![Schematic]()
+3. ![Schematic](https://github.com/recurze/ARM_Microprocessor/blob/master/img/ControllerSchematic.png)
 
 ## Software
